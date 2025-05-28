@@ -7,6 +7,29 @@
   font-style: normal;
 }
 
+/* color root */
+
+:root {
+  /* Theme Colors */
+  --color-dark: #050505;
+  --color-primary: #004fff;
+  --color-light-bg: #c9daea;
+  --color-accent-1: #03f7eb;
+  --color-accent-2: #00b295;
+
+  /* Text */
+  --text-main: #ffffff;
+  --text-muted: #c9daea;
+
+  /* Borders & Dividers */
+  --border-color: #1a1a1a;
+
+  /* States */
+  --success: #00b295;
+  --info: #03f7eb;
+}
+
 body {
   font-family: 'LibreBaskerville';
 }
+
